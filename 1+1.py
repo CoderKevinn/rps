@@ -8,7 +8,7 @@ def play_rps_game():
     
     computer_choice = random.choice(options)
     
-    # Get the user's choice
+    # Get 
     user_choice = input("Enter your choice (rock, paper, scissors): ").lower()
     
     # Validate the user input
